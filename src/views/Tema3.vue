@@ -99,24 +99,23 @@
               p Este desnivel en los talles está denotando que este patrón básico de corpiño delantero tiene una pinza.
               p Las pinzas en el patronaje son utilizadas para identificar el volumen en un plano, el cual será concebido hasta el momento del ensamblaje en el patrón; únicamente será visible en las pinzas y en algunos cortes, que al unir en la confección generarán el volumen.
               p La pinza que se identifica en el patrón delantero del corpiño se denomina de varias maneras, pinza de talles, pinza de diferencia de talles o pinza de recuperación de talle. 
-            .row.justify-content-end.align-items-center
-              .col-9
-                a.anexo.mb-4(:href="obtenerLink('/downloads/CF_8_U1_3-2_Traslado_de_pinzas.docx')" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-doc.svg")
-                  .anexo__texto
-                    p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3-2_Traslado de pinzas.  
-
       .col-12.col-md-3
           img.img-t.img-a(src='@/assets/ilustraciones/img38.svg', alt='')
 
-    .row.justify-content-start.align-items-center.mt-5
+    .row.justify-content-start.align-items-center.mt-3
       .col-12.col-md-8
         .row
           .col-lg-12
             .cajon.color-acento-contenido.p-4.mb-4
               p La pinza de recuperación de talle es una pinza con la que se permite jugar de varias formas y ubicarla en diferentes partes del patrón para generar cortes, recogidos, prenses, vuelos y por medio de estos, en la confección, generar el volumen que necesita el busto femenino. A este proceso de llevar la pinza a diferentes lugares del patrón se le conoce como traslados de pinza.
-              p Veamos qué se requiere para hacer el traslado de las pinzas.  
+              p Veamos qué se requiere para hacer el traslado de las pinzas. 
+          .row.justify-content-end.align-items-center
+            .col-9
+              a.anexo.mb-4(:href="obtenerLink('/downloads/CF_8_U1_3-2_Traslado_de_pinzas.docx')" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-doc.svg")
+                .anexo__texto
+                  p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3-2_Traslado de pinzas.                 
       .col-12.col-md-3
           img.img-t.img-a(src='@/assets/ilustraciones/img39.svg', alt='')
 
@@ -129,280 +128,280 @@
       .col-12.col-md-6
         img.img-t.img-a(src='@/assets/ilustraciones/img40.png', alt='')
 
-    .tabla-a.color-acento-contenido.mt-5
+    .tabla-a.color-acento-contenido
       table       
         thead
           tr
             th Medidas
-            th 6
-            th 8
-            th 10
-            th 12
-            th 14
-            th 16
-            th 18
+            th.text-center 6
+            th.text-center 8
+            th.text-center 10
+            th.text-center 12
+            th.text-center 14
+            th.text-center 16
+            th.text-center 18
         tbody
           tr
             td Contorno de Busto
-            td 84
-            td 88
-            td 92
-            td 96
-            td 100
-            td 106
-            td 112
+            td.text-center 84
+            td.text-center 88
+            td.text-center 92
+            td.text-center 96
+            td.text-center 100
+            td.text-center 106
+            td.text-center 112
           tr
             td Contorno de Cintura
-            td 60
-            td 64
-            td 68
-            td 72
-            td 76
-            td 82
-            td 88
+            td.text-center 60
+            td.text-center 64
+            td.text-center 68
+            td.text-center 72
+            td.text-center 76
+            td.text-center 82
+            td.text-center 88
           tr
             td Contorno de Cadera 
-            td 88 
-            td 92
-            td 96
-            td 100
-            td 104
-            td 110
-            td 116
+            td.text-center 88 
+            td.text-center 92
+            td.text-center 96
+            td.text-center 100
+            td.text-center 104
+            td.text-center 110
+            td.text-center 116
           tr
             td Ancho de Espalda 
-            td 33
-            td 34
-            td 35
-            td 36
-            td 37
-            td 38.5
-            td 40
+            td.text-center 33
+            td.text-center 34
+            td.text-center 35
+            td.text-center 36
+            td.text-center 37
+            td.text-center 38.5
+            td.text-center 40
           tr
             td Ancho de pecho
-            td 31
-            td 32
-            td 33
-            td 34
-            td 35
-            td 36.5
-            td 38
+            td.text-center 31
+            td.text-center 32
+            td.text-center 33
+            td.text-center 34
+            td.text-center 35
+            td.text-center 36.5
+            td.text-center 38
           tr
             td Talle Frente
-            td 43.5
-            td 44
-            td 44.5
-            td 45
-            td 45.5
-            td 46.25
-            td 47
+            td.text-center 43.5
+            td.text-center 44
+            td.text-center 44.5
+            td.text-center 45
+            td.text-center 45.5
+            td.text-center 46.25
+            td.text-center 47
           tr
             td Talle Atrás 
-            td 41.5
-            td 42
-            td 42.5
-            td 43
-            td 43.5
-            td 44.25
-            td 45
+            td.text-center 41.5
+            td.text-center 42
+            td.text-center 42.5
+            td.text-center 43
+            td.text-center 43.5
+            td.text-center 44.25
+            td.text-center 45
           tr
             td Centro frente
-            td 36.5
-            td 36.75
-            td 37
-            td 37.75
-            td 37.5
-            td 37.875
-            td 38.25
+            td.text-center 36.5
+            td.text-center 36.75
+            td.text-center 37
+            td.text-center 37.25
+            td.text-center 37.5
+            td.text-center 37.875
+            td.text-center 38.25
           tr
             td Centro Atrás
-            td 39.5
-            td 40
-            td 40.5
-            td 41
-            td 41.5
-            td 42.25
-            td 43
+            td.text-center 39.5
+            td.text-center 40
+            td.text-center 40.5
+            td.text-center 41
+            td.text-center 41.5
+            td.text-center 42.25
+            td.text-center 43
           tr
             td Costado 
-            td 18.75
-            td 19
-            td 19.25
-            td 19.5
-            td 19.75
-            td 20.125
-            td 20.50
+            td.text-center 18.75
+            td.text-center 19
+            td.text-center 19.25
+            td.text-center 19.5
+            td.text-center 19.75
+            td.text-center 20.125
+            td.text-center 20.50
           tr
             td Hombro 
-            td 11.5
-            td 11.75
-            td 12
-            td 12.25
-            td 12.5
-            td 12.875
-            td 13.25
+            td.text-center 11.5
+            td.text-center 11.75
+            td.text-center 12
+            td.text-center 12.25
+            td.text-center 12.5
+            td.text-center 12.875
+            td.text-center 13.25
           tr
             td Contorno de cuello 
-            td 33
-            td 34.5
-            td 36
-            td 37.5
-            td 39
-            td 41.25
-            td 27
+            td.text-center 33
+            td.text-center 34.5
+            td.text-center 36
+            td.text-center 37.5
+            td.text-center 39
+            td.text-center 41.25
+            td.text-center 27
           tr
             td Cuello Delantero
-            td 20
-            td 21
-            td 22
-            td 23
-            td 24
-            td 25.5
-            td 27
+            td.text-center 20
+            td.text-center 21
+            td.text-center 22
+            td.text-center 23
+            td.text-center 24
+            td.text-center 25.5
+            td.text-center 27
           tr
             td Cuello Espalda
-            td 13
-            td 13.5
-            td 14
-            td 14.5
-            td 15
-            td 15.75
-            td 16.5            
+            td.text-center 13
+            td.text-center 13.5
+            td.text-center 14
+            td.text-center 14.5
+            td.text-center 15
+            td.text-center 15.75
+            td.text-center 16.5            
           tr
             td Largo de Manga
-            td 59
-            td 59.5
-            td 60
-            td 60.5
-            td 61
-            td 61.75
-            td 62.5
+            td.text-center 59
+            td.text-center 59.5
+            td.text-center 60
+            td.text-center 60.5
+            td.text-center 61
+            td.text-center 61.75
+            td.text-center 62.5
           tr
             td Largo int. de Manga
-            td 45.5
-            td 45.5
-            td 46
-            td 46.25
-            td 46.5
-            td 46.875
-            td 47.25
+            td.text-center 45.5
+            td.text-center 45.75
+            td.text-center 46
+            td.text-center 46.25
+            td.text-center 46.5
+            td.text-center 46.875
+            td.text-center 47.25
           tr
             td Largo de Blusa
-            td 61
-            td 61.5
-            td 62
-            td 62.5
-            td 63
-            td 63.75
-            td 64.5
+            td.text-center 61
+            td.text-center 61.5
+            td.text-center 62
+            td.text-center 62.5
+            td.text-center 63
+            td.text-center 63.75
+            td.text-center 64.5
           tr
             td Largo de falda 
-            td 59
-            td 59.5
-            td 60
-            td 60.5
-            td 61
-            td 61.75
-            td 62.5
+            td.text-center 59
+            td.text-center 59.5
+            td.text-center 60
+            td.text-center 60.5
+            td.text-center 61
+            td.text-center 61.75
+            td.text-center 62.5
           tr
             td Altura de Cadera 
-            td 17.5
-            td 17.5
-            td 18
-            td 18.25
-            td 18.5
-            td 18.875
-            td 18.25
+            td.text-center 17.5
+            td.text-center 17.75
+            td.text-center 18
+            td.text-center 18.25
+            td.text-center 18.5
+            td.text-center 18.875
+            td.text-center 19.25
           tr
             td Largo de Pantalón
-            td 103
-            td 104
-            td 105
-            td 106
-            td 107
-            td 108.5
-            td 110
+            td.text-center 103
+            td.text-center 104
+            td.text-center 105
+            td.text-center 106
+            td.text-center 107
+            td.text-center 108.5
+            td.text-center 110
           tr
             td Tiro
-            td 24
-            td 25
-            td 26
-            td 27
-            td 28
-            td 29.5
-            td 31
+            td.text-center 24
+            td.text-center 25
+            td.text-center 26
+            td.text-center 27
+            td.text-center 28
+            td.text-center 29.5
+            td.text-center 31
           tr
             td Rodilla
-            td 19
-            td 19.5
-            td 20
-            td 20.5
-            td 21
-            td 21.75
-            td 22.5
+            td.text-center 19
+            td.text-center 19.5
+            td.text-center 20
+            td.text-center 20.5
+            td.text-center 21
+            td.text-center 21.75
+            td.text-center 22.5
           tr
             td Bota 
-            td 17
-            td 17.5
-            td 18
-            td 18.5
-            td 19
-            td 19.75
-            td 20.5
+            td.text-center 17
+            td.text-center 17.5
+            td.text-center 18
+            td.text-center 18.5
+            td.text-center 19
+            td.text-center 19.75
+            td.text-center 20.5
           tr
             td Largo de Bata 
-            td 100.5
-            td 101.5
-            td 102.5
-            td 103.5
-            td 104.5
-            td 106
-            td 63.5
+            td.text-center 100.5
+            td.text-center 101.5
+            td.text-center 102.5
+            td.text-center 103.5
+            td.text-center 104.5
+            td.text-center 106
+            td.text-center 63.5
           tr
             td Largo de Chaqueta 
-            td 60
-            td 60.5
-            td 61
-            td 61.5
-            td 62
-            td 62.75
-            td 63.5
+            td.text-center 60
+            td.text-center 60.5
+            td.text-center 61
+            td.text-center 61.5
+            td.text-center 62
+            td.text-center 62.75
+            td.text-center 63.5
           tr
             td Largo de capa 
-            td 60
-            td 60.5
-            td 61
-            td 61.5
-            td 62
-            td 62.75
-            td 60.5
+            td.text-center 60
+            td.text-center 60.5
+            td.text-center 61
+            td.text-center 61.5
+            td.text-center 62
+            td.text-center 62.75
+            td.text-center 63.5
           tr
             td Largo de abrigo 
-            td 105
-            td 105.5
-            td 106
-            td 106.5
-            td 107
-            td 107.75
-            td 108.5
+            td.text-center 105
+            td.text-center 105.5
+            td.text-center 106
+            td.text-center 106.5
+            td.text-center 107
+            td.text-center 107.75
+            td.text-center 108.5
           tr
             td Separación de busto
-            td 17
-            td 17.5
-            td 18
-            td 18.5
-            td 19
-            td 19.75
-            td 20.5
+            td.text-center 17
+            td.text-center 17.5
+            td.text-center 18
+            td.text-center 18.5
+            td.text-center 19
+            td.text-center 19.75
+            td.text-center 20.5
           tr
             td Altura de busto 
-            td 25.5
-            td 25.75
-            td 26
-            td 26.25
-            td 26.5
-            td 26.75
-            td 27
+            td.text-center 25.5
+            td.text-center 25.75
+            td.text-center 26
+            td.text-center 26.25
+            td.text-center 26.5
+            td.text-center 26.75
+            td.text-center 27
 
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-8

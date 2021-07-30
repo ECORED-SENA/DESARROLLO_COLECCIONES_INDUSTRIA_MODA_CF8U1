@@ -45,16 +45,18 @@
         .row.justify-content-center.mb-4
           .col-6
             img.img-t.img-a(src='@/assets/ilustraciones/img23.svg', alt='')          
-        .h2.text-center Elaboración del patrón de la falda
-        p.text-center Ahora se presentan las instrucciones, paso a paso, para la elaboración del patrón.
+        .titulo-segundo_2#t_2_1.mt-5
+          .h4 2.1 Elaboración del patrón de la falda
+        p.text-center.mt-4 Ahora se presentan las instrucciones, paso a paso, para la elaboración del patrón.
 
       .col-md.tarjeta.color-acento-contenido.border-right.p-5
         .row.justify-content-center.mb-4
           .col-6
             img.img-t.img-a(src='@/assets/ilustraciones/img24.svg', alt='')
         .text-white
-          .h2.text-center Tipos de pretina, para falda y pantalón
-          p.text-center La pretina es la cinta que se utiliza para sujetar la falda y el pantalón de la cintura y se ubica en la parte superior de estos.     
+          .titulo-segundo_1#t_2_2.mt-5
+            .h4 2.2 Tipos de pretina, para falda y pantalón
+          p.text-center.mt-4 La pretina es la cinta que se utiliza para sujetar la falda y el pantalón de la cintura y se ubica en la parte superior de estos.     
     .row.justify-content-end.align-items-end.mt-5
       .col-4
         a.anexo.mb-4(:href="obtenerLink('/downloads/CF8_U1_2_Patron_de_falda.docx')" target="_blank")
@@ -65,7 +67,7 @@
 
     SlyderC.mt-4(:datos="datosSlyder")
 
-    .titulo-segundo#t_2_1.mt-5
+    .titulo-segundo#t_2_3.mt-5
       .h4 2.3  Diferentes largos y tipos de falda
     .row.justify-content-center.align-items-center
       .col-12.col-md-7
@@ -243,15 +245,8 @@ export default {
         titulo: 'Pretina anatómica o curva',
         texto:
           'La pretina anatómica se logra uniendo por el costado las pretinas resultantes del trazo (delantera y posterior). Luego, se marca la línea de aplome en donde estaba el costado. Finalmente, se le aumenta por centro frente, la medida de cruce según el sistema de cierre deseado.',
-        imagen: require('@/assets/ilustraciones/img26.svg'),
+        imagen: require('@/assets/ilustraciones/pretina.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Pretina anatómica o curva',
-        texto:
-          'La pretina anatómica se logra uniendo por el costado las pretinas resultantes del trazo (delantera y posterior). Luego, se marca la línea de aplome en donde estaba el costado. Finalmente, se le aumenta por centro frente, la medida de cruce según el sistema de cierre deseado.',
-        imagen: require('@/assets/ilustraciones/img27.svg'),
-        //leyendaImagen: 'Leyenda de la imagen',
       },
     ],
   }),

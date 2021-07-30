@@ -28,7 +28,7 @@
         img.img-t.img-a(src='@/assets/ilustraciones/img64.svg', alt='')               
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-8
-        p partes iguales, puesto que estas medidas se toman de manera circular y el cuerpo humano tiene simetría bilateral; es decir, que si se divide el cuerpo en un plano sagital, los dos lados delanteros son exactamente iguales y los dos lados posteriores también serán exactamente iguales.
+        p Se debe recordar que las medidas de contorno se dividen en 4 partes iguales, puesto que estas medidas se toman de manera circular y el cuerpo humano tiene simetría bilateral; es decir, que si se divide el cuerpo en un plano sagital, los dos lados delanteros son exactamente iguales y los dos lados posteriores también serán exactamente iguales. 
 
         p Por lo tanto, normalmente se va a trabajar en el patronaje solo una mitad delantera y una mitad posterior. Es decir, que se va a tomar 1 de 4 partes totales que son el delantero derecho, delantero izquierdo, posterior derecho y posterior izquierdo. En el caso de las piernas del pantalón se concluyó que los volúmenes de algunas zonas en contorno son mayores en el posterior que en el delantero, para poder ajustar ese desfase este patronaje va a hacerse con el aumento de costuras por contornos y estas costuras no se van a repartir de manera equitativa. La manera como se repartirá depende de la diferencia de volumen entre la parte delantera y posterior. Esta repartición se hará de la siguiente manera:
 

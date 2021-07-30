@@ -23,11 +23,11 @@
         p Estos cuellos son aquellos que forman una tira, salen en un plano a parte del plano de la prenda y montan o abrazan con su forma el cuello. Al patronar estos cuellos, entre más centímetros se suban, a partir de centro frente, mayor estructurados quedarán y mientras más centímetros se bajen, a partir de centro frente, menos estructurados serán y caerán sobre el cuerpo.
 
         p Los cuellos que hacen parte de esta clasificación son: cuello nerú, cuello sport y cuello camisero (compuesto por un pie de cuello). Veamos en qué consisten estas variaciones:
-        a.anexo.mt-5(:href="obtenerLink('/downloads/CF_8_U1_6_Tipos_de_escotes.docx')" target="_blank")
+        a.anexo.mt-5(:href="obtenerLink('/downloads/CF_8_U1_7-1_Cuellos_Por_Medida_de_Contorno.docx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-doc.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_7-1_Cuellos por Medida de Contorno. (pendiente documetno descargable)
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_7-1_Cuellos por Medida de Contorno.
       .col-12.col-md-5
         img.img-t.img-a.mb-0(src='@/assets/ilustraciones/img52.png', alt='')
 
