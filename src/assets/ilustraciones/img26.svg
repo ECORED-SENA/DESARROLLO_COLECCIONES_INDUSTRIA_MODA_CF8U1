@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1227" height="546" viewBox="0 0 1227 546">
+  <g id="Grupo_54817" data-name="Grupo 54817" transform="translate(-181 -2266.308)">
+    <rect id="Rectángulo_5227" data-name="Rectángulo 5227" width="1227" height="546" rx="10" transform="translate(181 2266.308)" fill="#cff0ef"/>
+    <g id="Grupo_53876" data-name="Grupo 53876" transform="translate(136.595 -4514.502)">
+      <path id="Trazado_101504" data-name="Trazado 101504" d="M596.376,7044.494l13.794,120.7s-161.215,40.519-512.1,6.034l4.365-119.456S394.857,7086.2,596.376,7044.494Z" fill="#fff" stroke="#056260" stroke-miterlimit="10" stroke-width="3"/>
+      <circle id="Elipse_3993" data-name="Elipse 3993" cx="3.88" cy="3.88" r="3.88" transform="translate(98.829 7047.942)" fill="#056260"/>
+      <circle id="Elipse_3994" data-name="Elipse 3994" cx="3.88" cy="3.88" r="3.88" transform="translate(92.686 7167.561)" fill="#056260"/>
+      <circle id="Elipse_3995" data-name="Elipse 3995" cx="3.88" cy="3.88" r="3.88" transform="translate(191.735 7177.178)" fill="#056260"/>
+      <circle id="Elipse_3996" data-name="Elipse 3996" cx="3.88" cy="3.88" r="3.88" transform="translate(607.047 7161.256)" fill="#056260"/>
+      <circle id="Elipse_3997" data-name="Elipse 3997" cx="3.88" cy="3.88" r="3.88" transform="translate(592.498 7040.614)" fill="#056260"/>
+      <path id="Trazado_101505" data-name="Trazado 101505" d="M716.21,7048.373l-25.217,116.763s144.835,60.4,270.273,37.771,222.823-120.265,268.979-162.293l-52.373-100.867s-118,119.618-224.365,140.309S716.21,7048.373,716.21,7048.373Z" fill="#fff" stroke="#056260" stroke-miterlimit="10" stroke-width="3"/>
+      <circle id="Elipse_3998" data-name="Elipse 3998" cx="3.88" cy="3.88" r="3.88" transform="translate(687.113 7161.31)" fill="#056260"/>
+      <circle id="Elipse_3999" data-name="Elipse 3999" cx="3.88" cy="3.88" r="3.88" transform="translate(712.44 7044.494)" fill="#056260"/>
+      <circle id="Elipse_4000" data-name="Elipse 4000" cx="3.88" cy="3.88" r="3.88" transform="translate(880.229 7079.732)" fill="#056260"/>
+      <circle id="Elipse_4001" data-name="Elipse 4001" cx="3.88" cy="3.88" r="3.88" transform="translate(879.501 7206.85)" fill="#056260"/>
+      <circle id="Elipse_4002" data-name="Elipse 4002" cx="3.88" cy="3.88" r="3.88" transform="translate(1067.334 7162.451)" fill="#056260"/>
+      <circle id="Elipse_4003" data-name="Elipse 4003" cx="3.88" cy="3.88" r="3.88" transform="translate(1028.539 7043.695)" fill="#056260"/>
+      <circle id="Elipse_4004" data-name="Elipse 4004" cx="3.88" cy="3.88" r="3.88" transform="translate(1226.365 7037.66)" fill="#056260"/>
+      <text id="Costado" transform="translate(669.465 7195.813) rotate(-90)" fill="#056260" font-size="48.416" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Costado</tspan></text>
+      <text id="pret_Del." data-name="pret Del." transform="translate(339.294 7167.561) rotate(-90)" fill="#056260" font-size="19.717" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">pret Del.</tspan></text>
+      <text id="pretina_pos" data-name="pretina pos" transform="translate(934.697 7093.979) rotate(90)" fill="#056260" font-size="19.717" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">pretina pos</tspan></text>
+    </g>
+  </g>
+</svg>

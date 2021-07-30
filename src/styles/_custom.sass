@@ -1,0 +1,102 @@
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto  
+
+.cajon.color-primario 
+  background-color: lighten(#BF3976, 42%) !important
+
+.color-primario-bloque  
+  background-color: lighten(#BF3976, 42%) !important
+
+
+.bloque-texto-a
+  background-color: #E8E8E8 !important 
+  &::before
+    background-color: lighten($color-secundario,20% ) !important
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #6393DB
+      span 
+        color: white
+        font-weight: 700
+        font-size: small
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 1rem
+      span 
+        color:orange
+        font-size: 15pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 10px
+      margin-right: 0.65rem
+      margin-top: 4px
+      img 
+        width: 10px
+        vertical-align: middle
+      
+    
+  
+  &__txt 
+    p:first-child,
+    h3:first-child 
+      margin-top: 0px
+
+.m-top      
+  margin-top: -5px !important  
+
+.border-left
+  border-radius: 10px 0px 0px 10px !important 
+
+.border-right
+  border-radius: 0px 10px 10px 0px !important
+
+.size-img
+  max-width: 80% !important
+
+.row-bg-1
+  border: 35px solid #BF3976
+  display: flex
+  justify-content: center
+  align-items: center
+
+.row-bg-2
+  border: 35px solid #E2DDDF  
+  display: flex
+  justify-content: center
+  align-items: center
+.row-bg-p
+  background: white 
+
+.row-bg-3
+  background: #E8F0F8  
+
+.bg-img
+  background: #E2DDDF   
+
+.border-row
+  border: 6px solid white
