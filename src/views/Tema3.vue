@@ -248,7 +248,7 @@
             td.text-center 37.5
             td.text-center 39
             td.text-center 41.25
-            td.text-center 27
+            td.text-center 43.5
           tr
             td Cuello Delantero
             td.text-center 20
@@ -356,7 +356,7 @@
             td.text-center 103.5
             td.text-center 104.5
             td.text-center 106
-            td.text-center 63.5
+            td.text-center 107.5
           tr
             td Largo de Chaqueta 
             td.text-center 60
