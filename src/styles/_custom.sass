@@ -1,3 +1,17 @@
+.banner-principal__img
+  animation-name: swing
+  animation-duration: 3.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes swing
+  0%
+    transform: translatex(0px)    
+  50%
+    transform: translatex(-10px)
+  100%
+    transform: translatex(0px)
+  
 .img-a 
   display: block
   margin: auto
@@ -116,3 +130,29 @@
   width: 140px
   border-left: solid 50px #339CE9 
   background-color: #e8e8e8    
+
+.text-in
+  -webkit-animation: text-in 0.5s cubic-bezier(0.215, 0.61, 0.355, 1) both
+  animation: text-in 0.5s cubic-bezier(0.215, 0.61, 0.355, 1) both
+
+@-webkit-keyframes text-in
+  0%
+    letter-spacing: -0.5em
+    opacity: 0
+
+  40%
+    opacity: 0.6
+
+  100%
+    opacity: 1
+
+@keyframes text-in
+  0%
+    letter-spacing: -0.5em
+    opacity: 0
+
+  40%
+    opacity: 0.6
+
+  100%
+    opacity: 1    

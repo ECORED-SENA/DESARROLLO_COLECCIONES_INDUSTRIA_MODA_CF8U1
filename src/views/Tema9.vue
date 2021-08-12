@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 9
-      h1 Base del vestido
+      h1.text-in Base del vestido
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-12.col-md-6.row-bg-1.p-4
@@ -29,9 +29,9 @@
               p.mb-0 Se debe recordar que después de escalar se debe calcar cada uno de los patrones por talla deseada, con todas sus referencias y pinzas.
         .row.justify-content-start.align-items-center
           .col-8
-            a.anexo.mt-3(:href="obtenerLink('/downloads/CF_8_U1_9_Base_de_vestido.docx')" target="_blank")
+            a.anexo.mt-3(:href="obtenerLink('/downloads/CF_8_U1_9_Base_de_vestido.pdf')" target="_blank")
               .anexo__icono
-                img(src="@/assets/template/icono-doc.svg")
+                img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_9_Base de vestido.              
       .col-12.col-md-4.p-0

@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 6
-      h1 Tipos de escotes
+      h1.text-in Tipos de escotes
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-3
         .row
@@ -16,9 +16,9 @@
 
       .col-12.col-md-9
         img.img-t.img-a.mb-0(src='@/assets/ilustraciones/img50.svg', alt='')   
-    a.anexo.mt-5(:href="obtenerLink('/downloads/CF_8_U1_6_Tipos_de_escotes.docx')" target="_blank")
+    a.anexo.mt-5(:href="obtenerLink('/downloads/CF_8_U1_6_Tipos_de_escotes.pdf')" target="_blank")
       .anexo__icono
-        img(src="@/assets/template/icono-doc.svg")
+        img(src="@/assets/template/icono-pdf.svg")
       .anexo__texto
         p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_6_Tipos de escotes.
 

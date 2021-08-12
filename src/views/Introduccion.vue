@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span
           i.fas.fa-info
-      h1 Introducción
+      h1.text-in Introducción
     img.img-t.img-a(src='@/assets/ilustraciones/img1.svg', alt='')    
 
     p.mt-5 En esta unidad se encontrará con un acercamiento al patronaje femenino y el escalado del mismo, donde se desarrollarán diversos patrones básicos e interpretaciones para conocer y apropiar el conocimiento con respecto a este tema.

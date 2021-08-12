@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1 Inducción al patronaje y escalado femenino
+      h1.text-in Inducción al patronaje y escalado femenino
     img.img-t.img-a(src='@/assets/ilustraciones/img2.png', alt='')        
     .row.justify-content-center.align-items-center.mt-5
       .col-9 
@@ -95,6 +95,7 @@
         .row.justify-content-center.align-items-stretch.mt-3
           .col-md-4
             img.img-t.img-a(src='@/assets/ilustraciones/img12.svg', alt='')
+            h4.text-center.mt-3 Ejemplo de escalado del punto hombro por sisa
           .col-1
           .col-md-5.mb-4.mb-md-0
             p A continuación, se presenta un ejemplo en el que se explica gráficamente el escalado del punto de hombro por sisa (hombro x sisa), con unos valores de 0.84cm en X y 0.76cm en Y (los cuales dependen de cada punto y de la tabla de medidas con la que se trabaje), como se ve en la figura.
@@ -110,40 +111,21 @@
         p Para el desarrollo de patrones se emplean algunas medidas tomadas directamente sobre el cuerpo (antropométricas) y otras medidas que son deducidas; es decir, que se construyen a partir de fórmulas matemáticas.
         p Las medidas antropométricas para poder desarrollar los patrones femeninos se clasifican de la siguiente manera:      
       .col-12.col-md-6
-        img.img-t.img-a(src='@/assets/ilustraciones/img13.png', alt='')
-    .row.justify-content-center.align-items-end.mt-5
-      .col-8      
-        .row
-          .col-lg-12
-            .cajon.color-primario.p-4.mb-4
-              .h6 Medidas de largos:
+        img.img-t.img-a(src='@/assets/ilustraciones/img13.png', alt='')                
 
-              p Son las medidas que se toman de forma horizontal o con ligera inclinación. 
-
-              .h6 Medidas de anchos:
-
-              p Son las medidas que se toman de manera horizontal y solo se encuentran en delantero o posterior.
-
-              .h6 Medidas de contornos:
-
-              p Son las medidas que se toman de forma circular o envolvente alrededor del cuerpo y cuyo punto de inicio y llegada será el mismo. 
-
-              p Para realizar la toma de medidas de manera correcta lo primero que se debe identificar, son los puntos de referencia corporal anatómicos. 
-      .col-4 
-        a.anexo.mb-4(:href="obtenerLink('/downloads/CF8_U1_1_Toma_de_medidas.docx')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
-          .anexo__texto
-            p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_1_Toma de medidas.      
-
-    .row.justify-content-between.align-items-end.mt-5
-      .col-8   
+    .row.justify-content-between.align-items-center.mt-5
+      .col-lg-8   
         img.img-t.img-a(src='@/assets/ilustraciones/img15.svg', alt='')
-      .col-3
+      .col-lg-3
+        img.img-t(src='@/assets/ilustraciones/img15_2.svg', alt='')      
+        img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img15_1.png', alt='')
+
+    .row.justify-content-center.align-items-stretch.mt-5
+      .col-lg-6    
         .bloque-texto-c.color-primario-bloque.p-4
           i.fas.fa-quote-right
-          .h1.mb-2 Nota. a) Puntos de referencia de perfil; b) Puntos d referencia de frente; c). Tomando medidas.
-          span Tomada de Solano (2020)
+          .h4.mb-2 Nota. a) Puntos de referencia de perfil; b) Puntos d referencia de frente; c). Tomando medidas.
+          span Tomada de Solano (2020)   
 
     .row.mt-5
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -169,7 +151,12 @@
             .p-4
               .h2.text-center Medidas de contornos
               p.text-center son las medidas que se toman de forma circular o envolvente alrededor del cuerpo y cuyo punto de inicio y llegada será el mismo. 
-              p.text-center Para realizar la toma de medidas de manera correcta lo primero que se debe identificar, son los puntos de referencia corporal anatómicos.   
+
+  
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-10 
+        .bloque-texto-c.color-primario-bloque.p-4
+          .h4.mb-2 Para realizar la toma de medidas de manera correcta lo primero que se debe identificar, son los puntos de referencia corporal anatómicos.  
 
     .bloque-texto-a.color-primario.p-4.p-md-5.mt-5 
       .row.m-0.align-items-center.justify-content-between
@@ -179,7 +166,13 @@
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p A continuación se explica el paso a paso para la toma de medidas y así patronar el cuerpo femenino en su totalidad:
-              br
+              .row.justify-content-center.align-items-center
+                .col-lg-10             
+                  a.anexo.my-3(:href="obtenerLink('/downloads/CF8_U1_1_Toma_de_medidas.pdf')" target="_blank")
+                    .anexo__icono
+                      img(src="@/assets/template/icono-pdf.svg")
+                    .anexo__texto
+                      p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_1_Toma de medidas.            
               |Cada patronista emplea su propio cuadro de medidas y tallas o el de la empresa para la que trabaja, incluyendo las medidas que requiere para el desarrollo de las prendas. A continuación, se presenta un ejemplo de tabla de medidas femenina. 
 
     p.my-5 #[b Cuadro de tallas]

@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 5
-      h1 Almillas
+      h1.text-in Almillas
     img.img-t.img-a.mb-0(src='@/assets/ilustraciones/img46.png', alt='')
     p.mt-5 Las almillas son cortes que permiten jugar con el diseño, ya que esta pieza se puede cortar con el hilo de tela por urdimbre, por trama, al sesgo o diagonal, y de esta forma jugar con telas que tienen diseño de cuadros o rayas. En telas del mismo tono se pueden hacer puntadas decorativas o pespuntes para resaltar el corte. Las almillas no son únicamente decorativas, son cortes que se llevan en espalda y delantero unidos por hombro o únicamente en la espalda para mejorar la horma de la misma, ocultando en el corte una pinza que ayuda a dar volumen a la parte más prominente de la espalda que genera el omoplato.
 

@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 7
-      h1 Variaciones de cuellos
+      h1.text-in Variaciones de cuellos
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-12.col-md-5.row-bg-1.p-4
@@ -23,9 +23,9 @@
         p Estos cuellos son aquellos que forman una tira, salen en un plano a parte del plano de la prenda y montan o abrazan con su forma el cuello. Al patronar estos cuellos, entre más centímetros se suban, a partir de centro frente, mayor estructurados quedarán y mientras más centímetros se bajen, a partir de centro frente, menos estructurados serán y caerán sobre el cuerpo.
 
         p Los cuellos que hacen parte de esta clasificación son: cuello nerú, cuello sport y cuello camisero (compuesto por un pie de cuello). Veamos en qué consisten estas variaciones:
-        a.anexo.mt-5(:href="obtenerLink('/downloads/CF_8_U1_7-1_Cuellos_Por_Medida_de_Contorno.docx')" target="_blank")
+        a.anexo.mt-5(:href="obtenerLink('/downloads/CF_8_U1_7-1_Cuellos_Por_Medida_de_Contorno.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_7-1_Cuellos por Medida de Contorno.
       .col-12.col-md-5
@@ -44,9 +44,9 @@
 
     .row.justify-content-end.align-items-center
       .col-6
-        a.anexo.mt-5(:href="obtenerLink('/downloads/CF_8_U1_6_Tipos_de_escotes.docx')" target="_blank")
+        a.anexo.mt-5(:href="obtenerLink('/downloads/CF8_U_1_7-2_Cuellos_por_union_de_hombro.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_7-2_Cuellos por Union de hombro. (pendiente documetno descargable)   
 
@@ -63,9 +63,9 @@
 
     .row.justify-content-start.align-items-center
       .col-6
-        a.anexo.mt-5(:href="obtenerLink('/downloads/CF_8_U1_7-3_Cuellos_Por_Extension.docx')" target="_blank")
+        a.anexo.mt-5(:href="obtenerLink('/downloads/CF_8_U1_7-3_Cuellos_Por_Extension.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: F8_U1_7-3_Cuellos Por Extension.
 </template>

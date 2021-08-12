@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Trazado básico del corpiño
+      h1.text-in Trazado básico del corpiño
 
     .row.justify-content-center.align-items-center
       .col-12.col-md-3
@@ -18,9 +18,9 @@
               p El patrón del corpiño femenino, a diferencia de la base o corpiños masculinos e infantiles, trabaja con todas las medidas anatómicas, mientras que en patronaje infantil y masculina se trabaja con medidas deducidas.
 
               p Es momento de aprender el paso a paso para el trazado básico del corpiño:
-        a.anexo.mb-4(:href="obtenerLink('/downloads/CF_8_U1_3_Trazado_basico_del_corpino.docx')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/CF_8_U1_3_Trazado_basico_del_corpino.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3_Trazado básico del corpiño.      
 
@@ -111,9 +111,9 @@
               p Veamos qué se requiere para hacer el traslado de las pinzas. 
           .row.justify-content-end.align-items-center
             .col-9
-              a.anexo.mb-4(:href="obtenerLink('/downloads/CF_8_U1_3-2_Traslado_de_pinzas.docx')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('/downloads/CF_8_U1_3-2_Traslado_de_pinzas.pdf')" target="_blank")
                 .anexo__icono
-                  img(src="@/assets/template/icono-doc.svg")
+                  img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
                   p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3-2_Traslado de pinzas.                 
       .col-12.col-md-3
@@ -420,9 +420,9 @@
         img.img-t.img-a.mb-0(src='@/assets/ilustraciones/img42.jpg', alt='')
     .row.justify-content-center.mt-4
       .col-12.col-md-5
-        a.anexo.mb-4(:href="obtenerLink('/downloads/CF8_U1_3-3_Reparticion_de Medidas_de_Pinza.docx')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/CF8_U1_3-3_Reparticion_de Medidas_de_Pinza.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3-3_Reparticion de Medidas de Pinza.              
       .col-12.col-md-5
@@ -434,9 +434,9 @@
       .col-1
       .col-12.col-md-6
         p Se debe recordar que el corpiño es la base para patronar las prendas superiores del cuerpo femenino y que es como una segunda piel, por lo que las prendas que cubran este cuerpo deben tener unas ampliaciones y unas modificaciones para adaptarse no solo a la morfología de la parte superior del cuerpo sino también a la biomecánica o movimientos que debe hacer el cuerpo y a los cuales las prendas de vestir deben adaptarse.
-        a.anexo.mb-4(:href="obtenerLink('/downloads/CF8_U1_3-4_Variacion_Corpino_a_blusa.docx')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/CF8_U1_3-4_Variacion_Corpino_a_blusa.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3-4_Variacion Corpino a blusa.
 

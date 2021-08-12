@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 10
-      h1 Básico del pantalón clásico 
+      h1.text-in Básico del pantalón clásico 
 
     .row.justify-content-center.align-items-center
       .col-12.col-md-7
@@ -71,9 +71,9 @@
         p.mt-3 Ahora, pasemos al paso a paso para la elaboración de este patrón. 
         .row.justify-content-end.align-items-center
           .col-8
-            a.anexo.mt-3(:href="obtenerLink('/downloads/CF_8_U1_10_Basico_pantalon_clasico.docx')" target="_blank")
+            a.anexo.mt-3(:href="obtenerLink('/downloads/CF_8_U1_10_Basico_pantalon_clasico.pdf')" target="_blank")
               .anexo__icono
-                img(src="@/assets/template/icono-doc.svg")
+                img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_10_Basico pantalón clásico.
       .col-12.col-md-4
@@ -92,9 +92,9 @@
         img.img-t.img-a(src='@/assets/ilustraciones/img66.svg', alt='')       
     .row.justify-content-end.align-items-center
       .col-5
-        a.anexo.mt-3(:href="obtenerLink('/downloads/CF_8_U1_10-1_Basico_pantalon_jean.docx')" target="_blank")
+        a.anexo.mt-3(:href="obtenerLink('/downloads/CF_8_U1_10-1_Basico_pantalon_jean.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_10-1_Basico pantalón jean.
 

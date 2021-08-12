@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 11
-      h1 Básico de chaqueta
+      h1.text-in Básico de chaqueta
         
     img.img-t.img-a(src='@/assets/ilustraciones/img72.png', alt='')       
 
@@ -13,9 +13,9 @@
     p Ahora se explicará el paso a paso para la construcción de este patrón:
     .row.justify-content-end.align-items-center
       .col-5
-        a.anexo.mt-2(:href="obtenerLink('/downloads/CF_8_U1_11_Basico_de_chaqueta.docx')" target="_blank")
+        a.anexo.mt-2(:href="obtenerLink('/downloads/CF_8_U1_11_Basico_de_chaqueta.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_11_Basico de chaqueta.
     .titulo-segundo#t_11_1.mt-5

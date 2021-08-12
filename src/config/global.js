@@ -345,7 +345,7 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+        nombre: 'Anllelo Andres Reina Montañez',
         cargo: 'Diseño web y Producción Audiovisual',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',

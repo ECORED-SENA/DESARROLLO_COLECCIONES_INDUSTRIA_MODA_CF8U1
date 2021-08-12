@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Básico de la falda
+      h1.text-in Básico de la falda
     .bloque-texto-a.color-primario.p-4.p-md-5.mt-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
@@ -57,17 +57,17 @@
           .titulo-segundo_1#t_2_2.mt-5
             .h4 2.2 Tipos de pretina, para falda y pantalón
           p.text-center.mt-4 La pretina es la cinta que se utiliza para sujetar la falda y el pantalón de la cintura y se ubica en la parte superior de estos.     
-    .row.justify-content-end.align-items-end.mt-5
-      .col-4
-        a.anexo.mb-4(:href="obtenerLink('/downloads/CF8_U1_2_Patron_de_falda.docx')" target="_blank")
+    .row.justify-content-start.align-items-end.mt-5
+      .col-lg-4
+        a.anexo.mb-4(:href="obtenerLink('/downloads/CF8_U1_2_Patron_de_falda.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_2_Patron de falda.                         
 
-    SlyderC.mt-4(:datos="datosSlyder")
+    SlyderC(:datos="datosSlyder")
 
-    .titulo-segundo#t_2_3.mt-5
+    .titulo-segundo#t_2_3
       .h4 2.3  Diferentes largos y tipos de falda
     .row.justify-content-center.align-items-center
       .col-12.col-md-7
@@ -221,9 +221,9 @@
         img.img-t.img-a(src='@/assets/ilustraciones/13.svg', alt='')    
 
       .col-12.col-md-4
-        a.anexo.mb-4(:href="obtenerLink('/downloads/CF_8_U1_2-5_Modelos_de_faldas.docx')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/CF_8_U1_2-5_Modelos_de_faldas.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF_8_U1_2-5_Modelos de faldas. 
 
@@ -245,7 +245,7 @@ export default {
         titulo: 'Pretina anatómica o curva',
         texto:
           'La pretina anatómica se logra uniendo por el costado las pretinas resultantes del trazo (delantera y posterior). Luego, se marca la línea de aplome en donde estaba el costado. Finalmente, se le aumenta por centro frente, la medida de cruce según el sistema de cierre deseado.',
-        imagen: require('@/assets/ilustraciones/pretina.svg'),
+        imagen: require('@/assets/ilustraciones/pretina.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
     ],

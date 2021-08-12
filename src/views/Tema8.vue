@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 8
-      h1 Básico de manga
+      h1.text-in Básico de manga
     img.img-t.img-a.mb-0(src='@/assets/ilustraciones/img55.png', alt='')
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-4
@@ -93,9 +93,9 @@
             .cajon.color-primario.p-4.mb-4
               p Las variaciones de manga se realizan con el propósito de generar innumerables diseños y ajuste a las diferentes ocasiones de uso de las prendas de vestir.
               p.mb-0 Conoce en qué consisten dichas variaciones. 
-        a.anexo.mt-3(:href="obtenerLink('/downloads/CF_8_U1_8-1_Variaciones_de_manga.docx')" target="_blank")
+        a.anexo.mt-3(:href="obtenerLink('/downloads/CF_8_U1_8-1_Variaciones_de_manga.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_7-2_Cuellos por Union de hombro. (pendiente documetno descargable) 
 </template>
