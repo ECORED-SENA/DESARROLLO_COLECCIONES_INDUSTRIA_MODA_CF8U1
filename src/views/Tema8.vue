@@ -86,7 +86,7 @@
     
     .row.justify-content-center.align-items-stretch.mt-5
       .col-12.col-md-4
-        img.img-t.img-a(src='@/assets/ilustraciones/img58.svg', alt='') 
+        img.img-t.img-a(src='@/assets/ilustraciones/img58.jpg', alt='') 
       .col-12.col-md-8
         .row.justify-content-center.align-items-center
           .col-lg-12
