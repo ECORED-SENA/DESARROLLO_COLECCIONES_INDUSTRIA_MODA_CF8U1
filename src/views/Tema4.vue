@@ -12,7 +12,7 @@
       .anexo__icono
         img(src="@/assets/template/icono-pdf.svg")
       .anexo__texto
-        p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_4_Cortes
+        p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Cortes
 
 </template>
 

@@ -27,7 +27,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_7-1_Cuellos por Medida de Contorno.
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Cuellos por Medida de Contorno.
       .col-12.col-md-5
         img.img-t.img-a.mb-0(src='@/assets/ilustraciones/img52.png', alt='')
 
@@ -48,7 +48,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_7-2_Cuellos por Union de hombro. (pendiente documetno descargable)   
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Cuellos por Union de hombro. (pendiente documetno descargable)   
 
     .titulo-segundo#t_7_3.mt-5
       .h4 7.3  Cuellos por extensión 

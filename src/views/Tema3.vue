@@ -22,7 +22,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3_Trazado básico del corpiño.      
+            p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: Trazado básico del corpiño.      
 
     .titulo-segundo#t_3_1.mt-5
       .h4 3.1  Desahogos o ampliaciones 
@@ -115,7 +115,7 @@
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3-2_Traslado de pinzas.                 
+                  p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: Traslado de pinzas.                 
       .col-12.col-md-3
           img.img-t.img-a(src='@/assets/ilustraciones/img39.svg', alt='')
 
@@ -424,7 +424,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3-3_Reparticion de Medidas de Pinza.              
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Reparticion de Medidas de Pinza.              
       .col-12.col-md-5
     .titulo-segundo#t_3_4.mt-5
       .h4 3.4  Variación del corpiño a blusa  
@@ -438,7 +438,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_3-4_Variacion Corpino a blusa.
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Variacion Corpino a blusa.
 
     .titulo-segundo#t_3_5.mt-5
       .h4 3.5  Escalado corpiño    

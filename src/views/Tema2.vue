@@ -63,7 +63,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_2_Patron de falda.                         
+            p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: Patron de falda.                         
 
     SlyderC(:datos="datosSlyder")
 

@@ -17,9 +17,9 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_11_Basico de chaqueta.
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Basico de chaqueta.
     .titulo-segundo#t_11_1.mt-5
-      .h4 11.1 scalado de chaqueta
+      .h4 11.1 Escalado de chaqueta
 
     .row.justify-content-center.align-items-stretch.cajon.color-primario.p-4.mb-4.mt-5
       .col-12.col-md-7.mt-3

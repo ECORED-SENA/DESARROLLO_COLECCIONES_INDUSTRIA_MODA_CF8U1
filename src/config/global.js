@@ -351,6 +351,12 @@ export default {
         regional: 'Regional Santander',
       },
       {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Edward Leonardo Pico Cabra',
         cargo: 'Desarrollo Front-End',
         centro: 'Centro Industrial del Diseño y la Manufactura',

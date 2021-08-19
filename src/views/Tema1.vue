@@ -172,7 +172,7 @@
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
-                      p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_1_Toma de medidas.            
+                      p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: Toma de medidas.            
               |Cada patronista emplea su propio cuadro de medidas y tallas o el de la empresa para la que trabaja, incluyendo las medidas que requiere para el desarrollo de las prendas. A continuación, se presenta un ejemplo de tabla de medidas femenina. 
 
     p.my-5 #[b Cuadro de tallas]

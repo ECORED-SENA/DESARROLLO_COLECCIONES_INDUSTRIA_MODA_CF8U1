@@ -75,7 +75,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_10_Basico pantalón clásico.
+                p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Basico pantalón clásico.
       .col-12.col-md-4
         img.img-t.img-a(src='@/assets/ilustraciones/img65.svg', alt='')               
 
@@ -96,7 +96,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF8_U1_10-1_Basico pantalón jean.
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Basico pantalón jean.
 
     .titulo-segundo#t_10_2.mt-5
       .h4 10.2 Escalado del pantalón    
