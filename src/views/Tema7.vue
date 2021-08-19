@@ -48,7 +48,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Cuellos por Union de hombro. (pendiente documetno descargable)   
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Cuellos por Union de hombro.   
 
     .titulo-segundo#t_7_3.mt-5
       .h4 7.3  Cuellos por extensión 

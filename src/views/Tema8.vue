@@ -97,7 +97,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Cuellos por Union de hombro. (pendiente documetno descargable) 
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Cuellos por Union de hombro.
 </template>
 
 <script>
