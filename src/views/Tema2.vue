@@ -225,7 +225,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: CF_8_U1_2-5_Modelos de faldas. 
+            p #[b Anexo.] Cartilla con el paso a paso para la elaboración del patrón- nombrado: Modelos de faldas. 
 
 </template>
 
