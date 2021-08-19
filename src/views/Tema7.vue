@@ -67,7 +67,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: F8_U1_7-3_Cuellos Por Extension.
+            p #[b Anexo.]  Cartilla con el paso a paso para la elaboración del patrón- nombrado: Cuellos Por Extension.
 </template>
 
 <script>
